@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import Profile from "../../images/profile.jpeg";
+import Profile from "../../images/profile.webp";
 import Quotes from "../../images/quotes.svg";
 import HeroMobile from '../../images/heroMobile.mp4'
 import HeroTablet from '../../images/heroTablet.mp4';
