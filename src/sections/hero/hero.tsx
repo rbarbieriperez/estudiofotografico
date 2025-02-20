@@ -30,8 +30,7 @@ const Hero = () => {
         <div className="w-[90%] m-auto rounded-2xl mt-6 p-6 flex flex-col gap-y-4 bg-[#0C2A3E]">
           <motion.img initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 2 }}  className="w-6 justify-self-start" src={Quotes} alt="Quotes" />
           <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 2 }} className="text-white text-center font-poppinsRegular italic">
-            "La fotografía congela momentos, cuenta historias y revela la
-            belleza que nos rodea."
+            "Soy testigo de cada aventura, capturo el sentimiento y revelo la realidad de cada historia."
           </motion.p>
         </div>
       </div>
